@@ -8,3 +8,5 @@ While many sites are dedicated to the NBA Draft Lottery (like the great [Tankath
 Check it out [here](https://wnba-lottery.ue.r.appspot.com/)! Please open issues to report any bugs or performance problems. Send any feedback my way on [Twitter](https://twitter.com/py_ball_).
 
 ## Demo
+
+<img src="wnba_lottery.gif" height="350"/>
