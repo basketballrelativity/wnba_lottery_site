@@ -1,5 +1,5 @@
 # wnba_lottery_site
-Site to host live WNBA Draft Lottery probabilities: https://wnba-lottery.ue.r.appspot.com/
+Site to host live WNBA Draft Lottery probabilities: https://wnba-lottery-site.ue.r.appspot.com/
 
 ## Purpose
 
