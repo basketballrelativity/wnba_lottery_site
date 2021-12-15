@@ -2,10 +2,10 @@ import itertools
 import numpy as np
 import pandas as pd
 
-LOTTERY_INFO = {1: {'name': 'Liberty', 'id': '1611661313'},
+LOTTERY_INFO = {1: {'name': 'Fever', 'id': '1611661325'},
                 2: {'name': 'Dream', 'id': '1610612739'},
-                3: {'name': 'Wings', 'id': '1611661321'},
-                4: {'name': 'Fever', 'id': '1611661325'}}
+                3: {'name': 'Mystics', 'id': '1611661322'},
+                4: {'name': 'Sparks', 'id': '1611661320'}}
 
 LOTTO_CHANCES = {1: 442, 2: 276, 3: 178,
                  4: 104}
